@@ -1,7 +1,3 @@
-// Хотел поделить на Model View Presenter, но не успел
-// Поэтому логика Model и Presenter реализована в main.js
-// Что никак не влияет на функциональность приложения
-
 import WrapperBlockView from "./view/wrapper";
 import TaskListView from "./view/task-list";
 import TaskInputView from "./view/task-input";
